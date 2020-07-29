@@ -1,4 +1,4 @@
-<H1>better Anime4You</H1>
+<H1>better Anime4U</H1>
 <p>ist eine idee die Seite anime4you.one, für Anime Liebhaber, mit einem Firefox add-on zu verbessern.</p>
 <br>
 <h2>Überlegung zur umsetzung</h2>
