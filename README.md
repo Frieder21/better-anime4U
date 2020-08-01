@@ -1,7 +1,14 @@
 <H1>better Anime4U</H1>
-<p>ist eine idee die Seite anime4you.one, für Anime Liebhaber, mit einem Firefox add-on zu verbessern.</p>
+<p>in einem Satz: ist eine idee die Seite anime4you.one, für Anime Liebhaber, mit einem Firefox add-on zu verbessern, Werbung zu blocken und einen Besseren Videoplayer zubringen.</p>
 <br>
-<h2>Überlegung zur umsetzung</h2>
+<h2>Inhalt</h2>
+<ul>
+  <li><a href="#ueberlegung_zur_umsetzung">Überlegung zur umsetzung</a></li>
+  <li><a href="#umsetzung">Umsetzung</a></li>
+  <li><a href="#ergebnisse">Ergebnisse</a></li>
+ </ul>
+ <br>
+<h2 id="ueberlegung_zur_umsetzung">Überlegung zur umsetzung</h2>
 <p>Ich selber schaue sehr gerne Anime, das Problem ist die Werbung und das ständige rum geklicke zwischen den Folgen wenn das nur leichter wäre</p>
 <img alt="Image" title="1ter klick" src="readme/1terschritt.png" />
 <p>1ter klick die Folgen auswahl, sehr wichtig könnte aber auch einfacher sein zum Beispiel man könnte die Serie auswählen und dann vom letztem Stand weiter gucken.</p>
@@ -22,10 +29,10 @@
 <img alt="Image" title="Videoplayer" src="readme/7terschritt.png" />
 <p>Und Hier ist der Viedeoplayer der macht nicht alzuviel spaß, man kann vor/zurückspulen via Tasten und Pausieren (aber nur wenn man kurz davor in den player drückt und dann funktioniert das meist auch nicht lange), man kann nicht lauter und leiser stellen via Tasten, also hat dieser Videoplayer überarbeitungs bedarf.</p>
 <br>
-<h2>Umsetzung</h2>
+<h2 id="umsetzung">Umsetzung</h2>
 <p>Die Umsetzung steht bis jetzt in den Sternen.</p>
 <br>
-<h2>Ergebnisse</h2>
+<h2 id="ergebnisse">Ergebnisse</h2>
 <p>Etwa am 10.08.2020 sollte es eine Beta geben</p>
 <br>
 <p>Bei ideen einfach rückmelden Danke <3</p>
