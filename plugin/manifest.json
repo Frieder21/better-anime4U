@@ -1,0 +1,19 @@
+{
+
+  "manifest_version": 2,
+  "name": "better-anime4U",
+  "version": "1.0",
+
+  "description": "better-anime4U in einem Satz: ist eine idee die Seite anime4you.one, für Anime Liebhaber, mit einem Firefox add-on zu verbessern, Werbung zu blocken und einen Besseren Videoplayer zubringen.",
+  "homepage_url":"https://github.com/Frieder21/better-anime4you",
+  "icons": {
+    "48": "icons/beasts-48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.anime4you.one/*"],
+      "js": ["better-anime4U.js"]
+    }
+  ]
+
+}
